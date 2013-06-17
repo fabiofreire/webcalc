@@ -23,7 +23,7 @@
   			<version>0.8</version>
         <configuration>
           <message>Creating site for ${project.version}</message>
-          <repositoryName>my-app</repositoryName>
+          <repositoryName>webcalc</repositoryName>
           <repositoryOwner>rafaelkin</repositoryOwner>
         </configuration>
         <executions>
